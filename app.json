@@ -2,6 +2,11 @@
   "expo": {
     "name": "votacao",
     "slug": "votacao",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "24be73db-43d5-44f6-ae72-09fe5fc85494"
+      }
+    }
   }
 }
