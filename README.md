@@ -19,6 +19,7 @@
  <br> 
  
 # 🚀 Tecnologias Usadas
+* Javascript
 * Expo CLI
 * React Native
 * Firebase / FireStore 
@@ -43,6 +44,7 @@
 <br> 
 
 # 🔜 Implementação futura
+* Typescript
 * Estilização de todo layout do app em styled-components
 * Modo de batalha 3, uma forma de RGP de batalha, onde usuários poderão avançar os níveis
 
