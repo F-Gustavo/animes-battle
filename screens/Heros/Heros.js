@@ -3,7 +3,7 @@ import React, { useContext, useState, useEffect} from 'react';
 // import { AuthContext } from '../src/context/userContext';
 import { StyleSheet, View, Text, Image, TouchableOpacity, Button} from 'react-native';
 
-import { db } from '../../src/db/firebaseConnection'
+import { db } from '../../db/firebaseConnection'
 import { collection, getDocs, updateDoc, doc } from 'firebase/firestore'
 
 

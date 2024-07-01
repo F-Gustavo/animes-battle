@@ -1,6 +1,6 @@
 import { View, Text, Button, TextInput, StyleSheet, TouchableOpacity, Image, Keyboard, TouchableWithoutFeedback } from "react-native"
 import { useEffect, useState } from "react"
-import { db } from '../src/db/firebaseConnection'
+import { db } from '../db/firebaseConnection'
 import { collection, addDoc,} from 'firebase/firestore'
 
 import { Picker } from '@react-native-picker/picker';

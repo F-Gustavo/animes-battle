@@ -3,7 +3,7 @@ import React, { useEffect, useState } from 'react';
 import { useNavigation } from '@react-navigation/native';
 import { StyleSheet, Text, View, Image, ScrollView } from 'react-native';
 
-import { db } from '../src/db/firebaseConnection'
+import { db } from '../db/firebaseConnection'
 import { getDocs,  collection,} from 'firebase/firestore'
 
 import { Picker } from '@react-native-picker/picker';
